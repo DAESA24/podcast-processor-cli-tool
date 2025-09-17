@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh repo create:*)",
+      "Bash(gh repo view:*)",
+      "Bash(gh:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
